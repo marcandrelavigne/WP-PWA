@@ -48,7 +48,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<!-- Android Icons -->
 	<!-- Called in manifest.json -->
 
-	<!-- Website & Native App Icons -->
+	<!-- Website & Electron App Icons -->
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/img/favicon/favicon-196x196.png" sizes="196x196" />
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/img/favicon/favicon-96x96.png" sizes="96x96" />
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/img/favicon/favicon-32x32.png" sizes="32x32" />
