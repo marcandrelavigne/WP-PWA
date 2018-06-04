@@ -48,7 +48,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<!-- Android Icons -->
 	<!-- Called in manifest.json -->
 
-<<<<<<< HEAD
 	<!-- Website & Native App Icons -->
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/icons/favicon-196x196.png" sizes="196x196" />
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/icons/favicon-96x96.png" sizes="96x96" />
@@ -56,7 +55,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/icons/favicon-16x16.png" sizes="16x16" />
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/icons/favicon-128.png" sizes="128x128" />
 	<link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/assets/dist/icons/favicon.ico" />
-=======
+
 	<!-- Website & Electron App Icons -->
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/img/favicon/favicon-196x196.png" sizes="196x196" />
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/img/favicon/favicon-96x96.png" sizes="96x96" />
@@ -64,7 +63,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/img/favicon/favicon-16x16.png" sizes="16x16" />
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/dist/img/favicon/favicon-128.png" sizes="128x128" />
 	<link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/assets/dist/img/favicon/favicon.ico" />
->>>>>>> origin/master
 
 	<!-- Windows Tiles -->
 	<meta name="application-name" content="<?php bloginfo('name'); ?>"/>
