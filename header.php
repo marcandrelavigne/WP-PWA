@@ -21,8 +21,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<!-- PWA Metas -->
 	<meta name="theme-color" content="#000" />
 	<meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <meta name="apple-mobile-web-app-title" content="<?php bloginfo('name'); ?>">
+    	<meta name="apple-mobile-web-app-status-bar-style" content="default">
+   	 <meta name="apple-mobile-web-app-title" content="<?php bloginfo('name'); ?>">
 	<link rel="manifest" href="<?php echo get_template_directory_uri(); ?>/manifest.json">
 
 	<!-- PWA Splash Screen -->
